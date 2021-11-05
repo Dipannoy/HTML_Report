@@ -1,0 +1,14 @@
+
+
+1. Run the solution.
+
+------The solution is prepared well. Dataset has been provided in JsonObject.js and JsonObject2.js. More will be discussed during presentation.------------------------------------------------------------------------------------------------------------------
+
+
+
+2. Two PDF files have been provided. a) DemonstratePDF.pdf  	b) LabPDF.pdf
+
+
+a) Presentation will be given on "DemonstratePDF.pdf".
+
+b) In lab practice, you have to generate LabPDF.pdf.  

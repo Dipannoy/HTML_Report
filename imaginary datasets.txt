@@ -1,0 +1,38 @@
+
+
+        var imaginary_dataset_2 = {
+            studentlist: [
+                {
+                    "roll": "011143066",
+                    "name": "Sakim",
+                    "grade": 'A'
+                },
+                {
+                    "roll": "011143067",
+                    "name": "Def",
+                    "grade": 'B'
+                }
+            ],
+            studentBill: [
+                {
+                    "roll": "011143066",
+                    "due": 5000
+                },
+                {
+                    "roll": "011143067",
+                    "due": 2000
+                }
+            ],
+            studentDiscounts: [
+                {
+                    "roll": "011143066",
+                    "discount": 10
+                },
+                {
+                    "roll": "011143067",
+                    "discount": 5
+                }
+            ]
+
+        };
+        
